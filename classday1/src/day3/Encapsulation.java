@@ -39,6 +39,7 @@ public class Encapsulation {
 	public void setPhone(long phone) {
 		this.phone = phone;
 	}
+
 	public static void main(String[] args) {
 		Encapsulation obj = new Encapsulation();
 		obj.setName("vaidhegi");

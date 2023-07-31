@@ -1,7 +1,6 @@
-package day1;
+package day2;
 import java.util.Scanner;
 public class Operators {
-
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		System.out.println("enter a value :");
